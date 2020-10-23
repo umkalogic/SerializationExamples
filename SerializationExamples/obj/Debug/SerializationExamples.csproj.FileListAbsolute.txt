@@ -1,0 +1,17 @@
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.csproj.CoreCompileInputs.cache
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\SerializationExamples.exe.config
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\SerializationExamples.exe
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\SerializationExamples.pdb
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.exe
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.pdb
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\System.Memory.dll
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\System.Text.Json.dll
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\System.Numerics.Vectors.dll
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\System.Text.Encodings.Web.dll
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.exe.config
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.csproj.CopyComplete
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\bin\Debug\System.Buffers.dll
+C:\projects\OOPExamples\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.csprojAssemblyReference.cache
